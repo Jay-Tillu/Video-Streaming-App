@@ -1,9 +1,7 @@
+import Body from "./components/Body";
+
 const App = () => {
-  return (
-    <div>
-      <h1>Video Streaming App</h1>
-    </div>
-  );
+  return <Body />;
 };
 
 export default App;
